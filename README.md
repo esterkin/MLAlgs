@@ -10,4 +10,4 @@
 
 *knn.py* -  implementation of the k-nearest neighbor (kNN) classifer. 
 
-###### Further usage details can be found [here](http://cs.ucsb.edu/~esterkin/ML1.pdf "ML1") and [here.](http://cs.ucsb.edu/~/esterkin/ML2.pdf "ML2") 
+###### Further usage details can be found [here](http://cs.ucsb.edu/~esterkin/ML1.pdf "ML1") and [here.](http://cs.ucsb.edu/~esterkin/ML2.pdf "ML2") 
